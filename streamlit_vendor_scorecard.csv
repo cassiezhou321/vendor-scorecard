@@ -1,0 +1,18 @@
+Vendor,Quarter,Category,Subcategory,Score
+Vendor A,Q2-2025,Quality,Error Rate,4.0
+Vendor A,Q2-2025,Quality,Terminology Accuracy,3.0
+Vendor A,Q2-2025,Quality,Formatting & Consistency,4.0
+Vendor A,Q2-2025,Quality,Readability,5.0
+Vendor A,Q2-2025,Timeliness,On-Time Delivery,5.0
+Vendor A,Q2-2025,Timeliness,SLA Adherence,4.0
+Vendor A,Q2-2025,Cost Efficiency,Rate Competitiveness,4.0
+Vendor A,Q2-2025,Cost Efficiency,Rework Required,3.0
+Vendor A,Q2-2025,Communication,Response Time,5.0
+Vendor A,Q2-2025,Communication,Proactiveness,4.0
+Vendor A,Q2-2025,Communication,Issue Clarification,4.0
+Vendor A,Q2-2025,Communication,Collaboration w/ PMs & Reviewers,5.0
+Vendor A,Q2-2025,Innovation,Tech Adoption,4.0
+Vendor A,Q2-2025,Innovation,Workflow Suggestions,3.0
+Vendor A,Q2-2025,Customer Satisfaction,Client Feedback,4.0
+Vendor A,Q2-2025,Customer Satisfaction,Rework Requests,3.0
+Vendor A,Q2-2025,Total,Total Score,4.2
